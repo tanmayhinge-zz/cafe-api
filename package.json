@@ -1,0 +1,21 @@
+{
+  "name": "cafe-app",
+  "version": "1.0.0",
+  "description": "app for a cafe",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "tanmayhinge",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.22.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
