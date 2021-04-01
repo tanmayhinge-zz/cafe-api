@@ -1,7 +1,7 @@
 {
-  "name": "cafe-app",
+  "name": "cafe-api",
   "version": "1.0.0",
-  "description": "app for a cafe",
+  "description": "api for a cafe",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index"
